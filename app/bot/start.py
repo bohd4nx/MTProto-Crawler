@@ -21,4 +21,5 @@ def format_status():
 📂 <b>Tracking:</b> <a href='{tl_file_url}'>api.tl</a> file changes
 ⏱ <b>Check interval:</b> {config.CHECK_INTERVAL} seconds
 
+📢 <b>Channel:</b> @MTProtoUpdates
 🔗 <a href='https://github.com/bohd4nx/MTProto-Crawler'>View on GitHub</a>"""

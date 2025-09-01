@@ -1,6 +1,7 @@
 <div align="center">
   <h1>🚀 MTProto Layer Tracker</h1>
   <p>Real-time monitoring of Telegram Desktop MTProto API schema updates</p>
+  <p>📢 <a href="https://t.me/MTProtoUpdates">Join our Telegram channel</a> for live updates!</p>
 </div>
 
 ## 🚀 Features
@@ -8,13 +9,8 @@
 - 🔍 **Real-time Monitoring** - Tracks changes to Telegram's MTProto API schema
 - 📊 **Detailed Statistics** - Shows commit stats, layer numbers, and file changes
 - ⚡ **Instant Notifications** - Beautiful formatted messages with commit details
-- 📱 **Status Command** - Admin access to tracking statistics via `/start`
 
-## 📋 Commands
 
-| Command  | Description                 | Access     |
-|----------|-----------------------------|------------|
-| `/start` | View tracker status & stats | Admin only |
 
 ## 🛠️ Quick Setup
 
@@ -40,7 +36,6 @@
    [TELEGRAM]
    BOT_TOKEN = your_bot_token_here
    CHAT_ID = your_chat_id_here
-   ALLOWED_USERS = your_user_id_here
    
    [TRACKER]
    CHECK_INTERVAL = 300
@@ -67,10 +62,10 @@ Create a personal access token at [GitHub Settings](https://github.com/settings/
 
 1. Create bot via [@BotFather](https://t.me/BotFather)
 2. Get your chat ID from [@userinfobot](https://t.me/userinfobot)
-3. Add your user ID to `ALLOWED_USERS` for `/start` access
 
 ---
 
 <div align="center">
     <h4>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></h4>
+    <p>📢 <a href="https://t.me/MTProtoUpdates">@MTProtoUpdates</a> | 🔗 <a href="https://github.com/bohd4nx/MTProto-Crawler">GitHub</a></p>
 </div>
