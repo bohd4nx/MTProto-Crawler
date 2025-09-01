@@ -10,8 +10,6 @@
 - 📊 **Detailed Statistics** - Shows commit stats, layer numbers, and file changes
 - ⚡ **Instant Notifications** - Beautiful formatted messages with commit details
 
-
-
 ## 🛠️ Quick Setup
 
 ### Installation
@@ -63,9 +61,13 @@ Create a personal access token at [GitHub Settings](https://github.com/settings/
 1. Create bot via [@BotFather](https://t.me/BotFather)
 2. Get your chat ID from [@userinfobot](https://t.me/userinfobot)
 
+## 📢 Stay Updated
+
+Join our Telegram channel [@MTProtoUpdates](https://t.me/MTProtoUpdates) to receive real-time notifications about
+MTProto API schema changes!
+
 ---
 
 <div align="center">
     <h4>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></h4>
-    <p>📢 <a href="https://t.me/MTProtoUpdates">@MTProtoUpdates</a> | 🔗 <a href="https://github.com/bohd4nx/MTProto-Crawler">GitHub</a></p>
 </div>
